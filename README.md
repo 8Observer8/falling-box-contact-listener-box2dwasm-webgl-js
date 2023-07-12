@@ -1,3 +1,5 @@
+Discussion: https://github.com/Birch-san/box2d-wasm/discussions/63
+
 Sandboxes:
 
 - PlayCode: https://playcode.io/1531656
